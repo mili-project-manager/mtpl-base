@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
 <a name="0.0.1"></a>
+### [0.0.3](https://www.github.com/mili-project-manager/mtpl-base/compare/v0.0.2...v0.0.3) (2021-05-30)
+
+
+### Bug Fixes
+
+* npm repository name prefix ([fb1a603](https://www.github.com/mili-project-manager/mtpl-base/commit/fb1a603a67ee6d74f08d32952fe431e3a3036bb9))
+
 ### [0.0.2](https://www.github.com/mili-project-manager/mtpl-base/compare/v0.0.1...v0.0.2) (2021-05-30)
 
 
