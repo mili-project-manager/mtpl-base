@@ -1,5 +1,10 @@
 {{#with (head mili.stack)}}
+{{#if (equals type "npm")}}
+template: npm:{{name}}
+{{/if}}
+{{#unless (equals type "npm")}}
 template: {{name}}
+{{/unless}}
 version: {{version}}
 {{/with}}
 {{#unless (isEmpty answers)}}
