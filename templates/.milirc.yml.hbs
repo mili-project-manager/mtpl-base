@@ -1,6 +1,9 @@
 {{#with (head mili.stack)}}
 {{#if (equals type "npm")}}
 template: npm:{{name}}
+{{#if registry}}
+registry: {{registry}}
+{{/if}}
 {{/if}}
 {{#unless (equals type "npm")}}
 template: {{name}}
