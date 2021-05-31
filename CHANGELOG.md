@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
 <a name="0.0.1"></a>
+## [0.1.0](https://www.github.com/mili-project-manager/mtpl-base/compare/v0.0.3...v0.1.0) (2021-05-31)
+
+
+### Features
+
+* add npm registry to milirc ([1daacc6](https://www.github.com/mili-project-manager/mtpl-base/commit/1daacc6613c43f248b8f1f1fb0443b2727edc209))
+
 ### [0.0.3](https://www.github.com/mili-project-manager/mtpl-base/compare/v0.0.2...v0.0.3) (2021-05-30)
 
 
