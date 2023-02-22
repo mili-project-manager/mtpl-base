@@ -1,6 +1,6 @@
 {
   "name": "@mtpl/base",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The base mili template",
   "main": "index.js",
   "scripts": {
