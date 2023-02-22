@@ -1,18 +1,18 @@
-{{#with (head mili.stack)}}
-{{#if (equals type "npm")}}
+{{#with (r__head mili.stack)}}
+  {{#if (r__equals type "npm")}}
 template: npm:{{name}}
-{{#if registry}}
+    {{#if registry}}
 registry: {{registry}}
-{{/if}}
-{{/if}}
-{{#unless (equals type "npm")}}
+    {{/if}}
+  {{/if}}
+  {{#unless (r__equals type "npm")}}
 template: {{name}}
-{{/unless}}
+  {{/unless}}
 version: {{version}}
 {{/with}}
-{{#unless (isEmpty answers)}}
+{{#unless (r__isEmpty answers)}}
 answers:
-{{#each answers}}
+  {{#each answers}}
   {{@key}}: {{this}}
-{{/each}}
+  {{/each}}
 {{/unless}}

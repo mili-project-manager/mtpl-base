@@ -1,2 +1,2 @@
-template: @mtpl/template
+template: npm:@mtpl/template
 version: 2.0.0
