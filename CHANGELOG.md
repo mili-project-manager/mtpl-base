@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
 <a name="0.0.1"></a>
+### [0.1.1](https://www.github.com/mili-project-manager/mtpl-base/compare/v0.1.0...v0.1.1) (2023-02-22)
+
+
+### Performance Improvements
+
+* use handlebars-ramda-helper ([b1fa2e2](https://www.github.com/mili-project-manager/mtpl-base/commit/b1fa2e2216f967e695c029b05a05e74fb16f0761))
+
 ## [0.1.0](https://www.github.com/mili-project-manager/mtpl-base/compare/v0.0.3...v0.1.0) (2021-05-31)
 
 
